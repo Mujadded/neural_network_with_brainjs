@@ -1,1 +1,3 @@
-# neural_network_with_brainjs
+# XOR with brain.js
+
+This is a simple implementation of XOR with brain.js
